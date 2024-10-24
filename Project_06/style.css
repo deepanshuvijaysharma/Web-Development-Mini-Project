@@ -190,6 +190,9 @@ nav ul li:hover {
 .gift-section {
   scroll-margin: 12rem;
 }
+
+/* Resonsive Website */
+
 @media (max-width: 1024px) {
   .gift-card img {
     width: 40rem;
